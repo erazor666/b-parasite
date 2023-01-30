@@ -6,5 +6,5 @@ eda:
   schematic: kicad/parasite.sch
 color: green
 readme: README.md
-site: https://https://github.com/erazor666/b-parasite
+site: https://github.com/erazor666/b-parasite
 summary: b-parasite Plant monotior
